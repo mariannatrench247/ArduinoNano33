@@ -4,7 +4,7 @@ cmds for nano
 
 
 
-#Index 
-## 1. Working with Sensors
-## 2. Using BLE 
-## 3. Machine Learning on BLE Sense 
+## INDEX :  
+### 1. Working with Sensors
+### 2. Using BLE 
+### 3. Machine Learning on BLE Sense 
