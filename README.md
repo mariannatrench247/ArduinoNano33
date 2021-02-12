@@ -8,3 +8,5 @@ cmds for nano
 ### 1. Working with Sensors
 ### 2. Using BLE 
 ### 3. Machine Learning on BLE Sense 
+### 4. Memory Allocation 
+### 5. Assigning, Mitigating Tasks to Optimize Processing Capabilites on Microcontrollers 
