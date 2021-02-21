@@ -6,6 +6,18 @@ cmds for nano
 ![NANO33SENSE](https://user-images.githubusercontent.com/14113263/108411464-86e81580-71dd-11eb-9eec-54563239c3d8.png)
 
 
+# Specs: 
+### 3-axis Accelerometer 
+### 3-axis Gyroscope
+### 3-axis Magnetic
+### - RMS Microphone
+### Barometric Pressure
+### Temperature 
+### Humidity
+### Proximity 
+### RGBC Colour
+### Gesture 
+
 # Basic Workflow 
 1. Train model using full TF on computer / server
 2. Convert model into TF lite flat buffer file (.tflite) 
