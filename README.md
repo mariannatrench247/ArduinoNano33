@@ -18,6 +18,9 @@ cmds for nano
 ### RGBC Colour
 ### Gesture 
 
+# Chirp Technology M2M wireless communication
+# Mbed RTOS
+
 # Basic Workflow 
 1. Train model using full TF on computer / server
 2. Convert model into TF lite flat buffer file (.tflite) 
